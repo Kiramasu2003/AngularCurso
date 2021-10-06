@@ -1,0 +1,3 @@
+ng new NOMBRE DE LA APP A CREAR
+ng serve -o  PARA LEVANTAR EL SERVER
+ctrl+c para detener el server
